@@ -32,3 +32,5 @@ The challenge is:
 **Thoughts:** Today was a good oportunity to remember some basic concepts about React and CSS. It's the first time that I'm using Typescript on projects.
 
 **Link to work:** https://github.com/EliGorniak/nextlevelweek02-proffy
+
+![picture alt](assets/day01_proffy.png "Proffy App")
