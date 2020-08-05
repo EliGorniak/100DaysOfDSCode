@@ -23,7 +23,7 @@ The challenge is:
 
 ---
 ## Code Log
-### Day 02 - August, 04 2020 - Monday
+### Day 01 - August, 03 2020 - Monday
 
 **Project:** Proffy - A platform made with React, React Native and Typescript for teachers and students.
 
@@ -37,7 +37,7 @@ The challenge is:
 
 ---
 
-### Day 01 - August, 03 2020 - Monday
+### Day 02 - August, 04 2020 - Tuesday
 **Project:** Proffy - A platform made with React, React Native and Typescript for teachers and students.
 
 **Today's Progress:** Today I concluded the level 01/05 of Next Level Week 02 Course, finishing 2 pages of frontend. Next step will be working with on server side/backend (Node, Express, dB).
