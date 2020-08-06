@@ -47,3 +47,15 @@ The challenge is:
 **Link to work:** https://github.com/EliGorniak/nextlevelweek02-proffy
 
 ![picture alt](assets/day02_proffy.png "Proffy App")
+
+---
+### Day 03 - August, 05 2020 - Wednesday
+**Project:** Proffy - A platform made with React, React Native and Typescript for teachers and students.
+
+**Today's Progress:** Started working on backend, using Knex and SQLite3, controllers and routes.
+
+**Thoughts:** I experienced 2 new technologies, Knex and SQLite3, once the application is small and doesn't require a huge database. Tomorrow I'll finish the second level of the course.
+
+**Link to work:** https://github.com/EliGorniak/nextlevelweek02-proffy
+
+![picture alt](assets/day03_proffy.png "Proffy App")
