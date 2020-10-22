@@ -2,14 +2,14 @@
 
 ![picture alt](assets/banner.png "Banner")
 
----
+### :writing_hand: About
 - On this daily log I'll be posting my trajetory studyin Data Science, it technologies and new aspects, since I intended to know more about DS and work on this field.
 - This is part 100DaysOfCode challenge, created by Alexander Kallaway.
 - You can found more detais about the challenge here: https://www.100daysofcode.com/.
 - You can follow my progress on Twitter https://twitter.com/eligorniak.
 
 ---
-### Challenge 
+### :dart: Challenge 
 The challenge is:
 - [x] code everyday for 100 days.
 - [x] try to learn as many programming skills as possible.
@@ -18,14 +18,15 @@ The challenge is:
 - [x] commit to the Log on Github repo daily.
 
 ---
-### Starting
+### :spiral_calendar: Starting
 | Start Date |
 |----------|
 | 10/21/2020 |
 
 ---
-## Code Log
-### Day 001 - October 21, 2020 - Wednesday 
+## :chart_with_upwards_trend: Code Log
+
+### :bar_chart: Day 001 - October 21, 2020 - Wednesday 
 
 **Project:** EDA of ENEM 2019 dataset, the most important educational exam in Brazil.
 
