@@ -1,10 +1,12 @@
-# Eli Gorniak
+# 100 Days Of Data Science Code
 
-### 100 Days Of Code - Log
+![picture alt](assets/banner.png "Banner")
 
-
-This is a funny and strong way to learn more about Web Development technologies and tools.
-You can found more detais about the challenge here: https://www.100daysofcode.com/.
+---
+- On this daily log I'll be posting my trajetory studyin Data Science, it technologies and new aspects, since I intended to know more about DS and work on this field.
+- This is part 100DaysOfCode challenge, created by Alexander Kallaway.
+- You can found more detais about the challenge here: https://www.100daysofcode.com/.
+- You can follow my progress on Twitter https://twitter.com/eligorniak.
 
 ---
 ### Challenge 
@@ -19,55 +21,20 @@ The challenge is:
 ### Starting
 | Start Date |
 |----------|
-| 08/03/2020 |
+| 10/21/2020 |
 
 ---
 ## Code Log
-### Day 01 - August, 03 2020 - Monday
+### Day 001 - October 21, 2020 - Wednesday 
 
-**Project:** Proffy - A platform made with React, React Native and Typescript for teachers and students.
+**Project:** EDA of ENEM 2019 dataset, the most important educational exam in Brazil.
 
-**Today's Progress:** Today I started following the first video of Next Level Week 02 Course promoted by https://github.com/Rocketseat (https://nextlevelweek.com/episodios/omnistack/1/edicao/2), entirely in Brazilian Portuguese. During this week (08/03 to 08/07) the videos will be available daily with all the project.
+**Today's Progress:** Today I started following the first video of Data Immersion Week, by https://www.alura.com.br/imersao-dados, entirely in Brazilian Portuguese. During this week (10/19 to 10/23) the videos will be available daily with all the project.
 
-**Thoughts:** Today was a good oportunity to remember some basic concepts about React and CSS. It's the first time that I'm using Typescript on projects.
+**Thoughts:** Today was a good oportunity to start working with Google Colab, Python and some libs, like Pandas, Seaborn, Matplotlib and Numpy.
 
-**Link to work:** https://github.com/EliGorniak/nextlevelweek02-proffy
+**Link to work:** https://github.com/EliGorniak/Imersao_Data_Science_Alura_2aEd._2020
 
-![picture alt](assets/day01_proffy.png "Proffy App")
-
----
-
-### Day 02 - August, 04 2020 - Tuesday
-**Project:** Proffy - A platform made with React, React Native and Typescript for teachers and students.
-
-**Today's Progress:** Today I concluded the level 01/05 of Next Level Week 02 Course, finishing 2 pages of frontend. Next step will be working with on server side/backend (Node, Express, dB).
-
-**Thoughts:** Basically, today was easy just working with the Typescript sintaxe and components in React.
-
-**Link to work:** https://github.com/EliGorniak/nextlevelweek02-proffy
-
-![picture alt](assets/day02_proffy.png "Proffy App")
+![picture alt](assets/day001.jpg "Day 001")
 
 ---
-### Day 03 - August, 05 2020 - Wednesday
-**Project:** Proffy - A platform made with React, React Native and Typescript for teachers and students.
-
-**Today's Progress:** Started working on backend, using Knex and SQLite3, controllers and routes.
-
-**Thoughts:** I experienced 2 new technologies, Knex and SQLite3, once the application is small and doesn't require a huge database. Tomorrow I'll finish the second level of the course.
-
-**Link to work:** https://github.com/EliGorniak/nextlevelweek02-proffy
-
-![picture alt](assets/day03_proffy.png "Proffy App")
-
----
-### Day 04 - August, 06 2020 - Thursday
-**Project:** Proffy - A platform made with React, React Native and Typescript for teachers and students.
-
-**Today's Progress:** Conclude backend, using Knex and SQLite3, Insomnia for Node testings on db.
-
-**Thoughts:** Today was easier than yesterday just keep following the backend, but some new concepts like transactions and convertions ways for hour/min in a db.
-
-**Link to work:** https://github.com/EliGorniak/nextlevelweek02-proffy
-
-![picture alt](assets/day04_proffy.png "Proffy App")
