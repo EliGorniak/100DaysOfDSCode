@@ -1,4 +1,5 @@
 # 100 Days Of Data Science Code
+### Log of activities
 
 ![picture alt](assets/banner.png "Banner")
 
