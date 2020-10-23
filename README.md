@@ -29,14 +29,23 @@ The challenge is:
 
 ### :bar_chart: Day 001 - October 21, 2020 - Wednesday 
 
-**Project:** EDA of ENEM 2019 dataset, the most important educational exam in Brazil.
+**Tasks:** EDA of ENEM 2019 dataset, the most important educational exam in Brazil.
 
-**Today's Progress:** Today I started following the first video of Data Immersion Week, by https://www.alura.com.br/imersao-dados, entirely in Brazilian Portuguese. During this week (10/19 to 10/23) the videos will be available daily with all the project.
-
-**Thoughts:** Today was a good oportunity to start working with Google Colab, Python and some libs, like Pandas, Seaborn, Matplotlib and Numpy.
+**About today:** I've started following the first video of Data Immersion Week, by https://www.alura.com.br/imersao-dados, entirely in Brazilian Portuguese. During this week (from 10/19 to 10/23) the videos will be available daily with all the project. The main goal was to start working with Google Colab, Python and some libs, like Pandas, Seaborn, Matplotlib and Numpy.
 
 **Link to work:** https://github.com/EliGorniak/Imersao_Data_Science_Alura_2aEd._2020
 
 ![picture alt](assets/day001.jpg "Day 001")
+
+---
+### :bar_chart: Day 002 - October 22, 2020 - Thursday 
+
+**Tasks:** EDA of ENEM 2019 dataset, the most important educational exam in Brazil.
+
+**About today:** I've followed the second day of Data Immersion Week, by https://www.alura.com.br/imersao-dados, continuing doing EDA, where it was possible to see a considerable difference between the grades of the students, considering the family incomes, as in the graph below.
+
+**Link to work:** https://github.com/EliGorniak/Imersao_Data_Science_Alura_2aEd._2020
+
+![picture alt](assets/day002.jpg "Day 002")
 
 ---
